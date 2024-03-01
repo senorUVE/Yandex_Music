@@ -1,0 +1,5 @@
+sqlalchemy == 2.0.22
+alembic==1.13.0
+names == 0.3.0
+faker == 19.13.0
+# python3.11 -m pip install psycopg2-binary если ругается на psycopg2
